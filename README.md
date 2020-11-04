@@ -1,6 +1,7 @@
 # Spotify
 ## Run Spotify On Raspberry Pi  
-[![badge](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)  
+To Install Automaticly
+Git clone this And Chmod And Run Install
 To install manually:  
 
 - Place The .Desktop File In `/usr/share/applications`  
