@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Chromium (Media Edition)
+Comment=Listen To Music
+Exec=/home/pi/.local/share/Spotify/spotify.sh
+Terminal=false
+Type=Application
+Icon=spotify
+Categories=Network;
+StartupNotify=false
+
