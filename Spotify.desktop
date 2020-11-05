@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Chromium (Media Edition)
+Name=Spotify
 Comment=Listen To Music
 Exec=/home/pi/.local/share/Spotify/spotify.sh
 Terminal=false
