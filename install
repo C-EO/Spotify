@@ -1,6 +1,0 @@
-#!/bin/bash
-          cd /home/pi
-          mkdir /home/pi/.local/share/Spotify
-          sudo mv /home/pi/Spotify/Spotify.desktop /usr/share/applications
-          sudo mv /home/pi/Spotify/spotify.png /usr/share/icons
-          sudo mv /home/pi/Spotify/spotify.sh /home/pi/.local/share/Spotify
